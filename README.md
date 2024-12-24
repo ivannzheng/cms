@@ -1,2 +1,3 @@
 # cms
-backend for course managing system
+backend for course managing system using flask and sqlalchemy
+
