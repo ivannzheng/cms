@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  cms: 
+    image: ivannzheng/cms 
+    ports:
+      - "8000:8000"
